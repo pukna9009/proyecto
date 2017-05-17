@@ -1,0 +1,43 @@
+hola mundo
+El resultado de la suma es: 
+4
+El resultado de la resta es: 
+10
+El resultado de la multiplicacion es: 
+45
+El resultado de la potencia es: 
+125
+El resultado de la division es: 
+2.5
+El resultado de la division entera es: 
+3
+El resultado del modulo es: 
+4
+OPERACION ARITMETICA
+15+20*(15-(20+10)/40) =
+300.0
+operadores logicos
+igual
+5==5
+True
+diferente
+8!=8
+False
+menor que
+3<20
+True
+mayor que
+50>5
+True
+menor o igual que
+25<=50
+True
+mayor o igual que
+60>=50
+False
+Operacion Combinada
+20>15<=265!=50>10
+True
+VARIABLE N
+2
+14.078400000000002
